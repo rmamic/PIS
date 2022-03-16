@@ -6,5 +6,7 @@ namespace PIS_1
 {
     class Class1
     {
+        
+        //komentar suradnja
     }
 }
